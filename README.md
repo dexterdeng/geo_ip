@@ -1,5 +1,9 @@
 # GeoIp
 
+This version support the newest API on ipinfodb.com.
+
+---- the V3 API, and use the newest database;
+
 Retreive the geolocation of an IP address based on the [ipinfodb.com](http://ipinfodb.com/) webservice.
 
 As of 8th November 2010, the service is asking that all users [register](http://ipinfodb.com/register.php) for an API key.
